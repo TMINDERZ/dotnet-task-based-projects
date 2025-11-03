@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\smtp\EmailotpApp\bin\Debug\net9.0\EmailotpApp.exe
+C:\Users\MSI\Desktop\smtp\EmailotpApp\bin\Debug\net9.0\EmailotpApp.deps.json
+C:\Users\MSI\Desktop\smtp\EmailotpApp\bin\Debug\net9.0\EmailotpApp.runtimeconfig.json
+C:\Users\MSI\Desktop\smtp\EmailotpApp\bin\Debug\net9.0\EmailotpApp.dll
+C:\Users\MSI\Desktop\smtp\EmailotpApp\bin\Debug\net9.0\EmailotpApp.pdb
+C:\Users\MSI\Desktop\smtp\EmailotpApp\obj\Debug\net9.0\EmailotpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\smtp\EmailotpApp\obj\Debug\net9.0\EmailotpApp.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\smtp\EmailotpApp\obj\Debug\net9.0\EmailotpApp.AssemblyInfo.cs
+C:\Users\MSI\Desktop\smtp\EmailotpApp\obj\Debug\net9.0\EmailotpApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\smtp\EmailotpApp\obj\Debug\net9.0\EmailotpApp.dll
+C:\Users\MSI\Desktop\smtp\EmailotpApp\obj\Debug\net9.0\refint\EmailotpApp.dll
+C:\Users\MSI\Desktop\smtp\EmailotpApp\obj\Debug\net9.0\EmailotpApp.pdb
+C:\Users\MSI\Desktop\smtp\EmailotpApp\obj\Debug\net9.0\EmailotpApp.genruntimeconfig.cache
+C:\Users\MSI\Desktop\smtp\EmailotpApp\obj\Debug\net9.0\ref\EmailotpApp.dll

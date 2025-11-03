@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EmailotpApp/1.0.0": {
+        "runtime": {
+          "EmailotpApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailotpApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
